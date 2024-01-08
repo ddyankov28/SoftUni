@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c79d4aa4-b56b-4fa4-82e4-82267cdacb7b" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/Day_2/09_Fish_tank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Practice/01_Trapezoid_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Practice/02_Triangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Practice/03_Celsius_to_Fahrenheit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Practice/04_Vegetable_Market.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Practice/05_Training_Lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_Practice/06_Fishland.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +56,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_Trapezoid_area.executor": "Run",
     "Python.01_USD_to_BGN.executor": "Run",
     "Python.02_Radians_to_Degrees.executor": "Run",
+    "Python.02_Triangle_area.executor": "Run",
+    "Python.03_Celsius_to_Fahrenheit.executor": "Run",
     "Python.03_Deposit_Calculator.executor": "Run",
     "Python.03_rectangle_area.executor": "Run",
     "Python.04_Vacation_books_list.executor": "Run",
+    "Python.04_Vegetable_Market.executor": "Run",
     "Python.04_inches_to_cm.executor": "Run",
     "Python.05_Supplies_for_school.executor": "Run",
+    "Python.05_Training_Lab.executor": "Run",
     "Python.05_greeting_by_name.executor": "Run",
+    "Python.06_Fishland.executor": "Run",
     "Python.06_Repainting.executor": "Run",
     "Python.06_concatenate_data.executor": "Run",
     "Python.07_Food_delivery.executor": "Run",
@@ -81,8 +93,8 @@
       <recent name="C:\Users\dyank\PycharmProjects\SoftUni\Day_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09_Fish_tank">
-    <configuration name="05_Supplies_for_school" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06_Fishland">
+    <configuration name="02_Triangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/05_Supplies_for_school.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/02_Triangle_area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_Repainting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_Celsius_to_Fahrenheit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/06_Repainting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/03_Celsius_to_Fahrenheit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_Food_delivery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_Vegetable_Market" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/07_Food_delivery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/04_Vegetable_Market.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_Basketball_equipment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_Training_Lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/08_Basketball_equipment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/05_Training_Lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_Fish_tank" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_Fishland" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/09_Fish_tank.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/06_Fishland.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09_Fish_tank" />
-        <item itemvalue="Python.08_Basketball_equipment" />
-        <item itemvalue="Python.07_Food_delivery" />
-        <item itemvalue="Python.06_Repainting" />
-        <item itemvalue="Python.05_Supplies_for_school" />
+        <item itemvalue="Python.06_Fishland" />
+        <item itemvalue="Python.05_Training_Lab" />
+        <item itemvalue="Python.04_Vegetable_Market" />
+        <item itemvalue="Python.03_Celsius_to_Fahrenheit" />
+        <item itemvalue="Python.02_Triangle_area" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704711270972</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="start">
+      <option name="closed" value="true" />
+      <created>1704711614485</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704711614485</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
