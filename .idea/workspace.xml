@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c79d4aa4-b56b-4fa4-82e4-82267cdacb7b" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/Extra_Practice/07_House_Painting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra_Practice/08_Circle_area_and_Perimeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra_Practice/09_weather_forecast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra_Practice/10_weather_forecast_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/01_Excellent_Result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/02_Greater_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/03_Even_or_Odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/04_Password_Guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/05_Number_100_200.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/06_Speed_Info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/07_Area_of_figures.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,16 +57,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_Excellent_Result.executor": "Run",
     "Python.01_Trapezoid_area.executor": "Run",
     "Python.01_USD_to_BGN.executor": "Run",
+    "Python.02_Greater_Number.executor": "Run",
     "Python.02_Radians_to_Degrees.executor": "Run",
     "Python.02_Triangle_area.executor": "Run",
     "Python.03_Celsius_to_Fahrenheit.executor": "Run",
     "Python.03_Deposit_Calculator.executor": "Run",
     "Python.03_rectangle_area.executor": "Run",
+    "Python.04_Password_Guess.executor": "Run",
     "Python.04_Vacation_books_list.executor": "Run",
     "Python.04_Vegetable_Market.executor": "Run",
     "Python.04_inches_to_cm.executor": "Run",
+    "Python.05_Number_100_200.executor": "Run",
     "Python.05_Supplies_for_school.executor": "Run",
     "Python.05_Training_Lab.executor": "Run",
     "Python.05_greeting_by_name.executor": "Run",
@@ -96,8 +103,8 @@
       <recent name="C:\Users\dyank\PycharmProjects\SoftUni\Day_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10_weather_forecast_2">
-    <configuration name="06_Fishland" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_Area_of_figures">
+    <configuration name="01_Excellent_Result" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/06_Fishland.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/01_Excellent_Result.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_House_Painting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_Greater_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/07_House_Painting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/02_Greater_Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_Circle_area_and_Perimeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_Password_Guess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/08_Circle_area_and_Perimeter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/04_Password_Guess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_weather_forecast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_Number_100_200" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/09_weather_forecast.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/05_Number_100_200.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_weather_forecast_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_Area_of_figures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra_Practice/10_weather_forecast_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/07_Area_of_figures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10_weather_forecast_2" />
-        <item itemvalue="Python.09_weather_forecast" />
-        <item itemvalue="Python.08_Circle_area_and_Perimeter" />
-        <item itemvalue="Python.07_House_Painting" />
-        <item itemvalue="Python.06_Fishland" />
+        <item itemvalue="Python.07_Area_of_figures" />
+        <item itemvalue="Python.05_Number_100_200" />
+        <item itemvalue="Python.04_Password_Guess" />
+        <item itemvalue="Python.02_Greater_Number" />
+        <item itemvalue="Python.01_Excellent_Result" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704711614485</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="start">
+      <option name="closed" value="true" />
+      <created>1705166341353</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705166341353</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
