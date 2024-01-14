@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c79d4aa4-b56b-4fa4-82e4-82267cdacb7b" name="Changes" comment="start" />
+    <list default="true" id="c79d4aa4-b56b-4fa4-82e4-82267cdacb7b" name="Changes" comment="start">
+      <change afterPath="$PROJECT_DIR$/Day_4/01_Sum_Seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/02_Bonus_Score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/03_Time+15Mins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/04_Toy_Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/05_Godzila_vs_Kong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/06_World_Swimming_Record.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/07_Shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/08_Lunch_Break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,39 +51,50 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2adqaFkiK5sodj0y6GyrxhgSag0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.01_Excellent_Result.executor": "Run",
+    "Python.01_Sum_Seconds.executor": "Run",
     "Python.01_Trapezoid_area.executor": "Run",
     "Python.01_USD_to_BGN.executor": "Run",
+    "Python.02_Bonus_Score.executor": "Run",
     "Python.02_Greater_Number.executor": "Run",
     "Python.02_Radians_to_Degrees.executor": "Run",
     "Python.02_Triangle_area.executor": "Run",
     "Python.03_Celsius_to_Fahrenheit.executor": "Run",
     "Python.03_Deposit_Calculator.executor": "Run",
+    "Python.03_Time+15Mins.executor": "Run",
     "Python.03_rectangle_area.executor": "Run",
     "Python.04_Password_Guess.executor": "Run",
+    "Python.04_Toy_Shop.executor": "Run",
     "Python.04_Vacation_books_list.executor": "Run",
     "Python.04_Vegetable_Market.executor": "Run",
     "Python.04_inches_to_cm.executor": "Run",
+    "Python.05_Godzila_vs_Kong.executor": "Run",
     "Python.05_Number_100_200.executor": "Run",
     "Python.05_Supplies_for_school.executor": "Run",
     "Python.05_Training_Lab.executor": "Run",
     "Python.05_greeting_by_name.executor": "Run",
     "Python.06_Fishland.executor": "Run",
     "Python.06_Repainting.executor": "Run",
+    "Python.06_World_Swimming_Record.executor": "Run",
     "Python.06_concatenate_data.executor": "Run",
     "Python.07_Area_of_figures.executor": "Run",
     "Python.07_Food_delivery.executor": "Run",
     "Python.07_House_Painting.executor": "Run",
+    "Python.07_Shopping.executor": "Run",
     "Python.07_projects_creation.executor": "Run",
     "Python.08_Basketball_equipment.executor": "Run",
     "Python.08_Circle_area_and_Perimeter.executor": "Run",
+    "Python.08_Lunch_Break.executor": "Run",
     "Python.08_pet_shop.executor": "Run",
     "Python.09_Fish_tank.executor": "Run",
     "Python.09_weather_forecast.executor": "Run",
@@ -95,8 +116,8 @@
       <recent name="C:\Users\dyank\PycharmProjects\SoftUni\Day_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07_Area_of_figures">
-    <configuration name="01_Excellent_Result" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.08_Lunch_Break">
+    <configuration name="04_Toy_Shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/01_Excellent_Result.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/04_Toy_Shop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_Greater_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_Godzila_vs_Kong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/02_Greater_Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/05_Godzila_vs_Kong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_Password_Guess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_World_Swimming_Record" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/04_Password_Guess.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/06_World_Swimming_Record.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_Number_100_200" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_Shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/05_Number_100_200.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/07_Shopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_Area_of_figures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08_Lunch_Break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="softuni" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,11 +214,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3/07_Area_of_figures.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4/08_Lunch_Break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_Area_of_figures" />
-        <item itemvalue="Python.05_Number_100_200" />
-        <item itemvalue="Python.04_Password_Guess" />
-        <item itemvalue="Python.02_Greater_Number" />
-        <item itemvalue="Python.01_Excellent_Result" />
+        <item itemvalue="Python.08_Lunch_Break" />
+        <item itemvalue="Python.07_Shopping" />
+        <item itemvalue="Python.06_World_Swimming_Record" />
+        <item itemvalue="Python.05_Godzila_vs_Kong" />
+        <item itemvalue="Python.04_Toy_Shop" />
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +353,7 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start" />
     <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
