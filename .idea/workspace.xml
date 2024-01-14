@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c79d4aa4-b56b-4fa4-82e4-82267cdacb7b" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/Day_3/01_Excellent_Result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/02_Greater_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/03_Even_or_Odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/04_Password_Guess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/05_Number_100_200.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/06_Speed_Info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/07_Area_of_figures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c79d4aa4-b56b-4fa4-82e4-82267cdacb7b" name="Changes" comment="start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +68,7 @@
     "Python.06_Fishland.executor": "Run",
     "Python.06_Repainting.executor": "Run",
     "Python.06_concatenate_data.executor": "Run",
+    "Python.07_Area_of_figures.executor": "Run",
     "Python.07_Food_delivery.executor": "Run",
     "Python.07_House_Painting.executor": "Run",
     "Python.07_projects_creation.executor": "Run",
@@ -328,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705166341353</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="start">
+      <option name="closed" value="true" />
+      <created>1705181844723</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1705181844723</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
